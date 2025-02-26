@@ -1,6 +1,6 @@
 ## Startup Investment Data Analysis
 
-
+![](https://github.com/Alier0912/Startup_Investment_data_SQL_project/blob/main/e4a032b0-cbba-4475-9e21-801ce8cdc1cf.jpeg)
 ### About the Dataset
 **Overview**
 - This dataset contains 5,000 records of startup growth and investment data across various industries.

@@ -8,7 +8,6 @@
 - The dataset is ideal for machine learning models, data analysis, and trend predictions in the startup ecosystem.
 
 **Dataset Features**
-- Column Name	Description
 - Startup Name	Name of the startup
 - Industry	The industry sector (e.g., AI, Fintech, HealthTech, etc.)
 - Funding Rounds	Number of funding rounds received by the startup

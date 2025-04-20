@@ -8,15 +8,15 @@
 - The dataset is ideal for machine learning models, data analysis, and trend predictions in the startup ecosystem.
 
 **Dataset Features**
-- Startup Name	Name of the startup
-- Industry	The industry sector (e.g., AI, Fintech, HealthTech, etc.)
-- Funding Rounds	Number of funding rounds received by the startup
-- Investment Amount (USD)	Total investment received in USD
+- Startup Name	,Name of the startup
+- Industry	,The industry sector (e.g., AI, Fintech, HealthTech, etc.)
+- Funding Rounds,	Number of funding rounds received by the startup
+- Investment Amount (USD)	,Total investment received in USD
 - Valuation (USD)	Estimated company valuation in USD
-- Number of Investors	Total number of investors backing the startup
-- 	Country where the startup is based
-- 	Year Founded	Year when the startup was founded
-- 	Growth Rate (%)	Annual growth rate percentage
+- Number of Investors	,Total number of investors backing the startup
+- 	Country, where the startup is based
+- 	Year Founded,	Year when the startup was founded
+- 	Growth Rate (%),	Annual growth rate percentage
 ---------------------------
 
 **Use Cases**
